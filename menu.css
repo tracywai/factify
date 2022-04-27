@@ -1,0 +1,20 @@
+.body {
+    width:210px;
+    height:400px;
+  }
+
+.navbar button {
+    overflow: hidden;
+    background-color: #a8cef4;
+    width: 100px;
+    height: 100px;
+}
+  
+/*navbar links */
+.navbar button {
+  float: left;
+  display: block;
+  color: #b18bfd;
+  text-align: center;
+  text-decoration: none;
+}
